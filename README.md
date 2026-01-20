@@ -55,12 +55,8 @@ I'm a software developer who loves solving practical problems with clean design 
 ---
 
 ## Contact
-- Email: your.email@example.com
-- Website: https://your-site.example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourhandle)
-
-(Replace the placeholders with the links you want to share.)
+- Email: zoleboss.yt@gmail.com
+- Website: https://beta-game-site.onrender.com
 
 ---
 
