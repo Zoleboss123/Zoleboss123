@@ -24,27 +24,16 @@ I'm a software developer who loves solving practical problems with clean design 
 ---
 
 ## Tech & Tools
-- Languages: JavaScript / TypeScript, Python, Go (customize me)
-- Web: React, Next.js, Node.js, Express
-- Backend & Infra: Docker, Kubernetes, PostgreSQL, Redis
-- Testing & CI: Jest, Playwright, GitHub Actions
-- Productivity: VS Code, Git, Terraform, Prometheus
+- Languages: JavaScript / TypeScript, Python
+- Backend & Infra: PostgreSQL
+- Productivity: VS Code, Git
 
 (Replace or reorder these to reflect your real stack.)
 
 ---
 
 ## Featured Projects
-- Project A — Short 1–2 line description explaining impact and tech used.  
-  GitHub: https://github.com/Zoleboss123/project-a
-
-- Project B — Short 1–2 line description with metrics or notable achievements.  
-  GitHub: https://github.com/Zoleboss123/project-b
-
-- Project C — Short 1–2 line description emphasizing learning or outcomes.  
-  GitHub: https://github.com/Zoleboss123/project-c
-
-(Provide actual project names, links, and one-line impact descriptions to replace these.)
+- Project Jadam Office 
 
 ---
 
